@@ -1,0 +1,3 @@
+# Getting-Started
+Learning how to use GitHub
+We'll be getting a private repository in the coming weeks.  Starting to explore the functionality...
